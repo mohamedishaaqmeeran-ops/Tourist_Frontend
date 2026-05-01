@@ -52,7 +52,7 @@ const Register = () => {
                     >
                         <span
                             className="text-white font-bold text-2xl"
-                        >JP</span>
+                        >AH</span>
                     </div>
                 </Link>
 
